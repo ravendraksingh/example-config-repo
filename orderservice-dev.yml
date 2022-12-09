@@ -1,4 +1,4 @@
-  username: root
+username: root
   # user RKSEncryption.encrypt to encrypt the value [encryption-1.0.jar]
   password: 4ec5fa62aafc42c3f15250ed97fd8fd3
   url: jdbc:mysql://localhost:3306/order-service?useSSL=false&allowPublicKeyRetrieval=true
